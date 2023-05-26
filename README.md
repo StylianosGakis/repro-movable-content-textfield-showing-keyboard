@@ -1,0 +1,1 @@
+![Repro](/misc/movable_textfield_keyboard.gif)
